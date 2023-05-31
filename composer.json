@@ -12,7 +12,7 @@
     ],
     "replace": {
         "justblackbird/codeception-config-module":"1.0.0"
-    }
+    },
     "support": {
         "issues": "https://github.com/JustBlackBird/codeception-config-module/issues",
         "source": "https://github.com/JustBlackBird/codeception-config-module"
