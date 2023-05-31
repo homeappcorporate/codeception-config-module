@@ -1,5 +1,5 @@
 {
-    "name": "justblackbird/codeception-config-module",
+    "name": "homeapp/codeception-config-module",
     "version": "1.0.0",
     "description": "Loads params from config into codeception scenarios.",
     "type": "library",
@@ -10,6 +10,9 @@
             "email": "simushevds@gmail.com"
         }
     ],
+    "replace": {
+        "justblackbird/codeception-config-module":"1.0.0"
+    }
     "support": {
         "issues": "https://github.com/JustBlackBird/codeception-config-module/issues",
         "source": "https://github.com/JustBlackBird/codeception-config-module"
